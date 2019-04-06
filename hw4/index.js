@@ -8,13 +8,14 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Take that message back and they will know that I received this  as well as if I wrote. Make the best of your way. ',
+      'We left in pretty good time, and came after nightfall to Klausenburgh.',
   'example2':
-      'It was on the dark side of twilight when we got to Bistritz which is a very interesting old place.',
+      'In such cases, a woman has not often much beauty to think of.',
   'example3':
-      'Sir William and Lady Lucas are determined to go merely on that account for in general ou know they visit no newcomers.' ,
+      'Alice was beginning to get very tired of sitting by her sister on the bank.',
   'example4':
-      'The rabbit-hole went straight on like a tunnel for some way, and then dipped suddenly down'
+      'In England, there was scarcely an amount of order and protection to justify much national boasting.'      
+};
 
 function status(statusText) {
   console.log(statusText);
